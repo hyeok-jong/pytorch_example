@@ -1,0 +1,9 @@
+image_pth/
+experiments/
+experiments_*/
+*.pth
+*.pkl
+wandb/
+saves/
+dataset/
+
